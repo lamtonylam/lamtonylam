@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tony Lam</h1>
 <h3 align="center">Student at Helsinki High School of Natural Sciences</h3>
 
-<p align="center"><a href="https://www.hel.fi/heltiedelu/fi/hae-meille/in-english/"> <img src="https://res.cloudinary.com/dp4kpirzy/image/upload/c_thumb,w_200,g_face/v1609700707/473044_437638799588956_1169359681_o_ahhogi.jpg" alt="Hellu" /> </p>
+<p align="center"><a href="https://www.hel.fi/heltiedelu/fi/hae-meille/in-english/"></a> <img src="https://res.cloudinary.com/dp4kpirzy/image/upload/c_thumb,w_200,g_face/v1609700707/473044_437638799588956_1169359681_o_ahhogi.jpg" alt="Hellu" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamtonylam&label=Profile%20views&color=0e75b6&style=flat" alt="lamtonylam" /> </p> 
-<p align="left"><a href="https://www.hel.fi/heltiedelu/fi/hae-meille/in-english/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </p> 
+<p align="left"><a href="https://www.hel.fi/heltiedelu/fi/hae-meille/in-english/"> </a> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
