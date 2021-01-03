@@ -14,5 +14,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> </p>
 
-What I just listened to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&redirect=true)
+[![Spotify](https://tonylam.vercel.app/api/spotify)](https://open.spotify.com/user/le7cq1olyeuvjxgd17jtnno1f)
+
