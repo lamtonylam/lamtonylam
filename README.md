@@ -12,7 +12,7 @@
     <a href="https://twitter.com/lamtonylam" target="_blank"><img alt="Telegram me" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <a href="https://www.heroku.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
