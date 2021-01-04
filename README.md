@@ -25,6 +25,3 @@
 <h3 align="left">What I'm listening to: </h3>
 
 [![Spotify](https://tonylam.vercel.app/api/spotify)](https://open.spotify.com/user/le7cq1olyeuvjxgd17jtnno1f)
-
-<h3 align="left">Visitor count </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamtonylam&label=Profile%20views&color=0e75b6&style=flat" alt="lamtonylam" /> </p> 
