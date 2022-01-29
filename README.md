@@ -24,4 +24,4 @@
 
 <h3 align="left">What I'm listening to: </h3>
 
-[![Spotify](https://tonylam.vercel.app/api/spotify)](https://open.spotify.com/user/le7cq1olyeuvjxgd17jtnno1f)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&redirect=true)
