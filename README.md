@@ -2,7 +2,6 @@
 <h3 align="center">Student at Helsinki High School of Natural Sciences</h3>
 
 <p align="center">
-<a href="https://www.hel.fi/heltiedelu/fi/hae-meille/in-english" target="_blank"><img alt="Hellu" src="https://res.cloudinary.com/dp4kpirzy/image/upload/c_thumb,w_200,g_face/v1609700707/473044_437638799588956_1169359681_o_ahhogi.jpg"></a>
 </p>
 
 <h3 align="left"> Contact me </h3>
