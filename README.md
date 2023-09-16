@@ -1,25 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tony Lam</h1>
-<h3 align="center">Student at Helsinki High School of Natural Sciences</h3>
+<h3 align="center">CS Student at University of Helsinki</h3>
 
 <p align="center">
 </p>
 
-<h3 align="left"> Contact me </h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/lamtonylam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://rebrand.ly/0e10hjw" target="_blank"><img alt="Telegram me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://telegram.me/mangoflamingo" target="_blank"><img alt="Telegram me" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://twitter.com/lamtonylam" target="_blank"><img alt="Telegram me" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  <a href="https://www.heroku.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-  <a href="https://cloud.google.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-</p>
-
-
-<h3 align="left">What I'm listening to: </h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=le7cq1olyeuvjxgd17jtnno1f&redirect=true)
