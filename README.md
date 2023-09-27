@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony Lam</h1>
+<h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">CS Student at University of Helsinki</h3>
 
 <p align="center">
