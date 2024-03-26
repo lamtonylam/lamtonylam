@@ -6,6 +6,8 @@ CS Student at University of Helsinki
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtonylam&layout=compact&exclude_repo=opkh,koulu,lamtonylam)
 
+![stats](https://github-readme-stats.vercel.app/api?username=lamtonylam&hide_rank=true&show_icons=true&hide=stars)
+
 
 
 <p align="left">
