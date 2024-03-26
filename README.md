@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">CS Student at University of Helsinki</h3>
+Hi 👋, I'm Tony
 
-<p align="center">
-</p>
+CS Student at University of Helsinki
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtonylam&layout=compact&exclude_repo=opkh,koulu,lamtonylam)
+
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lamtonylam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
