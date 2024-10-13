@@ -4,7 +4,7 @@ CS Student at University of Helsinki
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtonylam&layout=compact&exclude_repo=opkh,koulu,lamtonylam,fullstackopen,fullstackopen-part3,express-app-devops-docker,devopsdocker)
+![Top Langs](https://tonylamgithubstats.vercel.app/api/top-langs/?username=lamtonylam&layout=compact&exclude_repo=opkh,koulu,lamtonylam,fullstackopen,fullstackopen-part3,express-app-devops-docker,devopsdocker)
 
 
 
